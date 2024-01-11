@@ -1,7 +1,7 @@
 from PIL import Image
 import requests
 import streamlit as st
-#import streamlit_lottie
+
 from streamlit_lottie import st_lottie
 
 
